@@ -9,4 +9,4 @@ Releasing Soon!
 Luraph is an obfuscation service allowing you to secure your Lua scripts. They are the longest standing and most secure option on the market. Luraph is consistently 
 updated to ensure your scripts are protected with state of the art techniques. With Luraph, the concern of an attacker reverse engineering your script will be no more. 
 
-(Starting at $1!)[https://lura.ph/]
+(https://lura.ph/)[Starting at $1!]
