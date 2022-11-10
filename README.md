@@ -4,7 +4,7 @@ LD is a deobfuscator for commonly known Lua obfuscation platforms. It supports I
 
 Releasing Soon!
 
-# Luraph
+# Luraph - BUY LURAPH! LURAPH #1
 
 Luraph is an obfuscation service allowing you to secure your Lua scripts. 
 
